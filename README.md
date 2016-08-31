@@ -1,3 +1,5 @@
+# fork form (https://github.com/badsyntax/react-seed.git), it's my learning of react
+
 # React seed [![Build Status](https://travis-ci.org/badsyntax/react-seed.svg?branch=master)](https://travis-ci.org/badsyntax/react-seed)
 
 A boilerplate for building React apps with ES6 and webpack.
